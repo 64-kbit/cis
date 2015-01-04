@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="xnet-web" uuid="4bb03e90-0b7a-4703-b270-15f66e7fc6c8">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>cis_cmanagerDboAdvancedVer_02.*</schema-pattern>
+      <default-schemas>cis_cmanagerDboAdvancedVer_02.* muunganoSaccoss.*</default-schemas>
+      <ssh-properties>
+        <enabled>true</enabled>
+        <proxy-host>192.168.1.2</proxy-host>
+        <proxy-port>22</proxy-port>
+        <secret-storage>master_key</secret-storage>
+        <user>oau</user>
+        <use-password>true</use-password>
+      </ssh-properties>
+    </data-source>
+  </component>
+</project>
+

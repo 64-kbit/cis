@@ -1,0 +1,204 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');?>
+<!-- Generic page styles -->
+
+<div class="span12" >
+    <div id="tabs" class="tabbedwidget tab-primary no-padding">
+        <ul>
+            <li>
+                <a href="#tab-1">
+                    <h4 class="">List of <?= $config['org_type']?> Students Loans for all Years</h4> </a>
+            </li>
+
+            <li><a href="#tab-2">
+                    <h4 class=""><i class="fa fa-upload"></i>&nbsp;&nbsp;Import New List</h4>
+                </a>
+            </li>
+        </ul>
+
+        <div id="tab-1">
+           <div class="options-menu">
+            <div class="btn-group">
+                <button data-toggle="dropdown" class="btn dropdown-toggle">Actions Menu <span class="caret"></span></button>
+                <ul class="dropdown-menu">
+                    <li><a  data-toggle="modal" data-target="#add-item-data" href="<?php echo base_url() ?>ajax_load/form?name=loan_import&token=<?php echo $currenttoken ?>"><i class="fa fa-upload"></i>&nbsp;Add Manually</a></li>
+                    <li class="divider"></li>
+                    <li><a href="#" onclick="alert('Not Implemented')"><i class="fa  fa-print"></i>&nbsp;Print List</a></li>
+                </ul>
+            </div>
+           </div>
+            <div class="widget no-padding" style="min-height: 400px">
+                <table class="table table-bordered responsive dataTable"  id="loan_import-list-table">
+                    <colgroup>
+                        <col class="con0" style="align: center; width: 2%">
+                        <col class="con1">
+                        <col class="con0">
+                        <col class="con1">
+                        <col class="con0">
+                        <col class="con1">
+                        <col class="con0">
+                        <col class="con1">
+                        <col class="con0">
+                        <col class="con1">
+                        <col class="con0">
+                        <col class="con1">
+                        <col class="con0">
+                    </colgroup>
+                    <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Reg No</th>
+                        <th>Index No</th>
+                        <th>Full Name</th>
+                        <th>Gender</th>
+                        <th>Course</th>
+                        <th><span title="Academic Year" data-toggle="tooltip">Year</span></th>
+                        <th>Current YOS</th>
+                        <th>YOS</th>
+                        <th>Amount</th>
+                        <th>Annual Amount</th>
+                        <th>Date Added</th>
+                        <th>Remarks</th>
+                        <!--<th>Description</th>   -->
+                    </tr>
+                    </thead>
+                    <tbody count-indicator=".loan_import-count-indicator" id="loan_import-list-contents<?php //echo $dp_type; ?>">
+                        <?php
+                        if(isset($student_list) && $student_list['count'] > 0){ ?>
+                            <tr>
+                                <td>1</td>
+                            </tr>
+                        <?php  }
+                        ?>
+                    </tbody>
+                </table>
+            </div><!--widgetcontent-->
+        </div>
+        <div id="tab-2">
+           <div class="widget" id="file_upload_container" style="min-height: 400px">
+               <div class="container">
+                   <h3>Upload CSV/Excel Files containing Students Loans</h3>
+
+                   <div id="upload-img">
+                       <!-- Upload function on action form -->
+                       <?php echo form_open_multipart('/upload/upload_img', array('id' => 'fileupload')); ?>
+                       <!-- The fileupload-buttonbar contains buttons to add/delete files and start/cancel the upload -->
+                       <div class="row fileupload-buttonbar">
+                           <div class="span7">
+                               <!-- The fileinput-button span is used to style the file input field as button -->
+            <span class="btn btn-success fileinput-button">
+                <span><i class="icon-plus icon-white"></i> Add files...</span>
+                <!-- Replace name of this input by userfile-->
+                <input type="file" name="userfile" multiple>
+            </span>
+
+                               <button type="submit" class="btn btn-primary start">
+                                   <i class="icon-upload icon-white"></i> Start upload
+                               </button>
+
+                               <button type="reset" class="btn btn-warning cancel">
+                                   <i class="icon-ban-circle icon-white"></i> Cancel upload
+                               </button>
+
+                               <button type="button" class="btn btn-danger delete">
+                                   <i class="icon-trash icon-white"></i> Delete
+                               </button>
+
+                               <input type="checkbox" class="toggle">
+                           </div>
+
+                           <div class="span5">
+
+                               <!-- The global progress bar -->
+                               <div class="progress progress-success progress-striped active fade">
+                                   <div class="bar" style="width:0%;"></div>
+                               </div>
+                           </div>
+                       </div>
+
+                       <!-- The loading indicator is shown during image processing -->
+                       <div class="fileupload-loading"></div>
+                       <br>
+                       <!-- The table listing the files available for upload/download -->
+                       <table class="table table-striped"><tbody class="files" data-toggle="modal-gallery" data-target="#modal-gallery"></tbody></table>
+                       <?php echo form_close(); ?>
+
+                   </div>
+                   <br>
+                        <!-- Redirect browsers with JavaScript disabled to the origin page -->
+                       <noscript><input type="hidden" name="redirect" value="/"></noscript>
+                       <!-- The fileupload-buttonbar contains buttons to add/delete files and start/cancel the upload -->
+                       <div class="row fileupload-buttonbar">
+                           <div class="span7">
+                               <br>
+                               <!-- The fileinput-button span is used to style the file input field as button -->
+    <span class="btn btn-success fileinput-button">
+        <i class="fa icon-plus-circle"></i>
+        <span>Add files...</span>
+        <!-- The file input field used as target for the file upload widget -->
+        <input id="fileupload" type="file" name="files[]" multiple>
+    </span>
+                           </div>
+                           <!-- The global progress state -->
+                           <div class="span5 fileupload-progress fade">
+                               <!-- The global progress bar -->
+                               <div class="progress progress-striped active" role="progressbar" aria-valuemin="0" aria-valuemax="100">
+                                   <div id="progress" class="progress">
+                                       <div class="progress-bar progress-bar-success"></div>
+                                   </div>
+                               </div>
+                               <!-- The extended global progress state -->
+                               <div class="progress-extended">&nbsp;</div>
+                           </div>
+                       </div>
+                       <!-- The table listing the files available for upload/download -->
+                       <div id="files" class="files"></div>
+                   <br>
+                   <div class="panel panel-default">
+                       <div class="panel-heading">
+                           <h3 class="panel-title">Upload Instructions</h3>
+                       </div>
+                       <div class="panel-body">
+                           <ul>
+                               <li>Click <span class="btn btn-success disabled"><i class="fa icon-plus-circle"></i> Add files.. </span> to select files</li>
+                               <li>Click  <button class="btn btn-circle btn-primary disabled"><i class="fa icon-upload"></i></button> to upload </li>
+
+                               <li>The maximum file size for uploads in this is <strong>5 MB</strong></li>
+                               <li>Only xls,csv files (<strong>JPG, GIF, PNG</strong>) are allowed </li>
+                               <li>Uploaded files will be Stored Permanently on the Server</li>
+                               <li>You can <strong>drag &amp; drop</strong> files from your desktop on this Page (<strong>Old browsers Not Supported</strong>)</li>
+                           </ul>
+                       </div>
+                   </div>
+               </div>
+
+               <!-- The template to display files available for upload -->
+
+           </div>
+        </div>
+      </div>
+
+</div>
+
+
+<div style="display:none">
+
+    <script src="<?= plugins_folder() ?>jquery.blueimp-gallery.min.js"></script>
+    <script src="<?= plugins_folder() ?>tmpl.min.js"></script>
+
+    <!-- The Iframe Transport is required for browsers without support for XHR file uploads -->
+    <script src="<?= plugins_folder() ?>uploader/jquery.iframe-transport.js"></script>
+    <!-- The basic File Upload plugin -->
+    <script src="<?= plugins_folder() ?>uploader/jquery.fileupload.js"></script>
+    <!-- The File Upload processing plugin -->
+    <script src="<?= plugins_folder() ?>uploader/jquery.fileupload-process.js"></script>
+    <!-- The File Upload validation plugin -->
+    <script src="<?= plugins_folder() ?>uploader/jquery.fileupload-validate.js"></script>
+    <script src="<?= plugins_folder() ?>uploader/loans_upload.js"></script>
+
+
+
+    <script>
+    </script>
+
+
+</div>

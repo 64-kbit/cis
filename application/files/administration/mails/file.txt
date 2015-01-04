@@ -1,0 +1,175 @@
+                                        C R D B    B A N K    P L C                                        
+
+                      BILLS REPORT FOR DSM INSTITUTE OF TECHNOLOGY(ACC#. 0150408417800)                      
+
+                                       AS FROM 28/11/2014 TO 28/11/2014                                       
+
+
+PAY DATE   STUDENT'S NAME           REG NUMBER               FEE TYPE                      AMOUNT REFERENCE    BRANCH    
+===========================================================================================================
+
+
+28/11/2014 ROMANUS WILLIAM GIDEME   FISRT YEAR               FEES                     350,000.00 B32M0123101    AZIKIWE
+28/11/2014 ALEX E. SHANGO           DIT                      TUITION FEES             585,500.00 B15P0355002    AZIKIWE
+
+28/11/2014 KAIJAHABI   WILLIHELMINA 120333491224             FEES                     650,000.00 F33M0232301    HOLLAND HOUSE
+28/11/2014 RAYMOPND EDMUND          REG......                T/FEE                    570,500.00 F13S3238301    HOLLAND HOUSE
+
+28/11/2014 ASIFIWE MATHIAS          1 YEAR                   TUTION FEE                   400.00 J19K0853601    LUMUMBA
+28/11/2014 DAVID NASHON             CASH DEPOSIT                                      725,500.00 J25E0240001    LUMUMBA
+
+28/11/2014 GISABU MBITI             -                        FEES                      30,400.00 X44S0241001    VIJANA
+28/11/2014 JAMILA M RAMADHANI       OD 11 C                  FEES                      72,700.00 X42S0113301    VIJANA
+28/11/2014 ZEYANA MWALIM ALI        OD 12 CI                 FEES                      72,400.00 X42S0113201    VIJANA
+28/11/2014 JOSEPH RUGANO            FEE                      SCHOOL FEES              600,000.00 X03R2621501    VIJANA
+28/11/2014 WALTER.M.MELCHIOR        MECHANICAL ENGINEERING   SCHOOL FEES               69,000.00 X11P0071601    VIJANA
+28/11/2014 CHQ. NO                  924426                   CHRISTINA MKOMA      -  1,097,760.00 X31M0466501    VIJANA
+28/11/2014 CHQ. NO                  924424                   ELTON                -  1,030,000.00 X31M0466401    VIJANA
+28/11/2014 CHRISTOPHER R SAMSON     9021562                  FEES                      10,000.00 X44S0238501    VIJANA
+28/11/2014 JUMA H. RAMADHANI        110647251263, BENG 12T   HIGH DIPL TRANSCRIPT       2,000.00 X14M0626701    VIJANA
+28/11/2014 HATIB H. HATIB           -                        FEES                      10,000.00 X08F0232901    VIJANA
+28/11/2014 PROSPER E. MNDEME        -                        STATEMENT OF RESULT        2,000.00 X42S0109801    VIJANA
+28/11/2014 GAUDIOZ RWECHUNGURA      .                        TRANSCRIPT FEES            2,000.00 X14M0626301    VIJANA
+28/11/2014 AISHA.A.TWAHA            110121191230             FEES                      72,800.00 X11P0070901    VIJANA
+28/11/2014 JUMA MOSHI               110232211455             TUITION FEE&OTHER CO     220,000.00 X11P0070401    VIJANA
+28/11/2014 ANITHA E. GWERA          BEE                      TUITION FEES              40,400.00 X08F0231301    VIJANA
+
+===========================================================================================================
+  TOTAL TRANSACTIONS:             21                            TOTAL AMOUNT:       1,957,840.00
+
+===========================================================================================================
+
+  C R D B    B A N K    P L C                                        
+
+                      BILLS REPORT FOR DSM INSTITUTE OF TECHNOLOGY(ACC#. 0150408417800)                      
+
+                                       AS FROM 26/11/2014 TO 26/11/2014                                       
+
+
+PAY DATE   STUDENT'S NAME           REG NUMBER               FEE TYPE                      AMOUNT REFERENCE    BRANCH    
+===========================================================================================================
+
+
+26/11/2014 JOSHUA MPELEMBWA         REG NO....               FEES                     190,000.00 B14M0724501    AZIKIWE
+26/11/2014 RIVALDO HENRY            ..                       FEES                     710,000.00 B19D0555001    AZIKIWE
+
+26/11/2014 GERSON E KANZA           REG....                  T/FEE                    710,000.00 F13S3209801    HOLLAND HOUSE
+
+26/11/2014 CASIAN R  KOMU           MECHANICAL               FEES                     500,000.00 KV2S1613701    ILALA SERV. CENTER
+26/11/2014 IDDY KHALIPHER           MINING                   EXAMS RESLUT               2,000.00 KV2S1613401    ILALA SERV. CENTER
+
+26/11/2014 CHQ. NO                  924418                   JAMES ISSACK         -   686,000.00 X42S0093901    VIJANA
+26/11/2014 CHQ. NO                  924413                   ELTON                -   240,000.00 X03R2598601    VIJANA
+26/11/2014 CHQ. NO                  924421                   ELTON                -   200,000.00 X03R2598501    VIJANA
+26/11/2014 CHQ. NO                  924420                   ELTON                -   980,000.00 X03R2598401    VIJANA
+26/11/2014 CHQ. NO                  924414                   ELTON                -   160,000.00 X03R2598301    VIJANA
+26/11/2014 CHQ. NO                  924422                   ELTON                -  8,100,000.00 X03R2598201    VIJANA
+26/11/2014 FRANK RUTAIHWA           -                        FEES                       2,000.00 X44S0222801    VIJANA
+26/11/2014 ASHA MGENI               -                        TUITION FEES             137,700.00 X08F0212501    VIJANA
+26/11/2014 SAUTI M. MAGESA          -                        TUITION FEES             520,000.00 X08F0212301    VIJANA
+26/11/2014 ZEYANA MWALIM ALI        OD 11 C1                 FEES                     498,000.00 X42S0092601    VIJANA
+26/11/2014 JAMILA M RAMADHANI       -                        FEES                     137,700.00 X44S0222301    VIJANA
+26/11/2014 WALTER M. MELCHIOR       FEE                      SCHOOL FEES               84,500.00 X03R2598101    VIJANA
+26/11/2014 MIHANGO                  FEE                      STATEMENT OF RESULTS       2,000.00 X03R2598001    VIJANA
+26/11/2014 CHAGU MANDALU            OD13LTB                  STATEMENT OF RESULTS       2,000.00 X42S0092401    VIJANA
+26/11/2014 LAMECK ZACHARIA          -                        TUITION FEES               1,000.00 X08F0211501    VIJANA
+26/11/2014 RAMADHANI JAMES          -                        FEE                        2,000.00 X44S0220801    VIJANA
+26/11/2014 MBARAKA NDETE            FEE                      SCHOOL FEES              200,000.00 X03R2597101    VIJANA
+26/11/2014 EPHRAIM OBED             FEE                      SCHOOL FEES              570,400.00 X03R2596501    VIJANA
+26/11/2014 SHUKURU A. KASSIMU       .                        SCH FEES                  75,000.00 X14M0609201    VIJANA
+26/11/2014 CHIPALO L. KABOHOLA      FEE                      STUDENT ID                 5,000.00 X03R2594601    VIJANA
+26/11/2014 ELIASY YOHANA MBINGAMNO  I YEAR                   TUITION FEE              675,000.00 X42S0088901    VIJANA
+26/11/2014 RAMADHANI M. SINGANO     130121461121, OD 13 C3   FEES                     570,400.00 X42S0088601    VIJANA
+26/11/2014 JOHN KAAYA               OD 13 CO                 FEES                     570,400.00 X42S0087901    VIJANA
+26/11/2014 ABDALLAH MADUKWA         FEES                     SCH FEES                 129,400.00 X31M0455301    VIJANA
+26/11/2014 DANIEL MASANJA           2014/2015                FEES                     480,000.00 X42S0086801    VIJANA
+26/11/2014 LAMECK ZACHARIA          FEES                     SCH FEES                 215,000.00 X31M0454101    VIJANA
+26/11/2014 JACKLINE P SAMSON        II YEAR                  FEES                     510,000.00 X42S0086201    VIJANA
+26/11/2014 THOBIAS M. MAHARAGE      110333211695             STATEMENT OF RESULTS       2,000.00 X03R2590701    VIJANA
+
+===========================================================================================================
+  TOTAL TRANSACTIONS:             33                            TOTAL AMOUNT:     -  2,864,500.00
+
+===========================================================================================================
+
+                              C R D B    B A N K    P L C                                        
+
+                      BILLS REPORT FOR DSM INSTITUTE OF TECHNOLOGY(ACC#. 0150408417800)                      
+
+                                       AS FROM 18/11/2014 TO 18/11/2014                                       
+
+
+PAY DATE   STUDENT'S NAME           REG NUMBER               FEE TYPE                      AMOUNT REFERENCE    BRANCH    
+===========================================================================================================
+
+
+18/11/2014 VALENTINE SAMSON         DIT                      TUITION FEES             500,000.00 B15P0255601    AZIKIWE
+
+18/11/2014 MOSES KIMARO             BACHELOR                 TUITION FEE              300,000.00 AR0B0810101    AZIKIWE PREMIER
+
+18/11/2014 GOODLUCK LUFYAGILE       .........................FEES                     200,000.00 F04M0509101    HOLLAND HOUSE
+18/11/2014 GOODLUCK                 CASH DEPOSITGOODLUCK     CASH DEPO            -   200,000.00 F04M0509001    HOLLAND HOUSE
+18/11/2014 GOODLUCK                 CASH DEPOSIT                                      200,000.00 F04M0509001    HOLLAND HOUSE
+
+18/11/2014 ALLY I MTORO             IT                       FEES                      70,400.00 KV2S1542301    ILALA SERV. CENTER
+
+18/11/2014 SALIM .A. KITOLLA        LEVEL SIX 2013/2014      RESULTS                    2,000.00 J29S0076401    LUMUMBA
+
+18/11/2014 J MANYAMA                CASH DEPOSIT                                        4,000.00 S75M0346801    PUGU ROAD
+
+18/11/2014 ABEDNEGO MHAGAMA         DIPLOMA                  FEES                     570,400.00 DH6M0154001    UBUNGO
+
+18/11/2014 CHQ. NO                  924369                   HASSAN M CHUNGA      -  1,170,000.00 X42S0029401    VIJANA
+18/11/2014 SWALEHE SAID Y           .                        STATEMENT OF RESULTS       2,000.00 X14M0569101    VIJANA
+18/11/2014 CHQ. NO                  924378                   ELTON                -  1,350,000.00 X31M0358901    VIJANA
+18/11/2014 CHQ. NO                  924377                   ELTON                -  1,800,000.00 X31M0358801    VIJANA
+18/11/2014 CHQ. NO                  924374                   ELTON MHAMILAWA      -   720,000.00 X31M0358701    VIJANA
+18/11/2014 CHQ. NO                  924355                   TULINAVE S LUPEMBE   -   500,000.00 X31M0358601    VIJANA
+18/11/2014 CHQ. NO                  924368                   ELTON                -   842,000.00 X31M0358101    VIJANA
+18/11/2014 CHQ. NO                  924354                   ELTON                -   720,000.00 X31M0358001    VIJANA
+18/11/2014 SAMWEL EVARIST           13022231959, I YEAR      FEES                     300,000.00 X42S0027201    VIJANA
+18/11/2014 ELWIN S. MSEMO           FEE                      SCHOOL FEES                2,000.00 X03R2531401    VIJANA
+18/11/2014 ALLY H SWEDI             110525498003             TRANSCRIPT FEE             2,000.00 X31M0353301    VIJANA
+18/11/2014 BUNANZE S. BUNANZE       11042112285              TRANSCRIPT FEE            10,000.00 X14M0567201    VIJANA
+18/11/2014 FRANK REVELIAN           130627482169             SCHOOL FEES              150,000.00 X03R2528501    VIJANA
+18/11/2014 TUMAIN MABALA            .                        RESULT SLIP                2,000.00 X14M0567001    VIJANA
+18/11/2014 BONIFACE E. NDIDI        ELECTRICAL               SCHOOL FEES              400,000.00 X03R2527801    VIJANA
+18/11/2014 HASSAN SALUMU            130121421827             FEES                     110,000.00 X11P0023201    VIJANA
+18/11/2014 HUSSEIN KHAMIS           MECHANICAL ENGINEERING   FEES                      10,000.00 X11P0022101    VIJANA
+18/11/2014 PETER.N.THOMAS           MECHANICAL ENGINEERING   SCHOOL FEESPETER.N.T -   580,000.00 X11P0021801    VIJANA
+18/11/2014 PETER.N.THOMAS           MECHANICAL ENGINEERING   SCHOOL FEES              580,000.00 X11P0021901    VIJANA
+18/11/2014 PETER.N.THOMAS           MECHANICAL ENGINEERING   SCHOOL FEES              580,000.00 X11P0021801    VIJANA
+18/11/2014 ABDALLAH GOGOMEKO        FEE                      RESULTS SLIP               2,000.00 X03R2525001    VIJANA
+
+===========================================================================================================
+  TOTAL TRANSACTIONS:             30                            TOTAL AMOUNT:     -  3,885,200.00
+
+===========================================================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

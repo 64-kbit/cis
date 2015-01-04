@@ -1,0 +1,12 @@
+time: 2014-10-14 15:54:10 | type: mail_connect | content: 1 | logs: {\"data\":\"Successfully Connected to Mail\"} 
+time: 2014-10-14 15:54:11 | type: email_scan | content: 1 | logs: {\"data\":\"No New Emails Found\",\"error\":true} 
+time: 2014-10-14 15:56:51 | type: mail_connect | content: 1 | logs: {\"data\":\"Successfully Connected to Mail\"} 
+time: 2014-10-14 15:56:52 | type: email_scan | content: 1 | logs: {\"data\":\"No New Emails Found\",\"error\":true} 
+time: 2014-10-14 15:58:42 | type: mail_connect | content: 1 | logs: {\"data\":\"Successfully Connected to Mail\"} 
+time: 2014-10-14 15:58:43 | type: email_scan | content: 1 | logs: {\"data\":\"No New Emails Found\",\"error\":true} 
+time: 2014-10-14 15:59:15 | type: mail_connect | content: 1 | logs: {\"data\":\"Successfully Connected to Mail\"} 
+time: 2014-10-14 15:59:16 | type: email_scan | content: 1 | logs: {\"data\":\"No New Emails Found\",\"error\":true} 
+time: 2014-10-14 15:59:40 | type: mail_connect | content: 1 | logs: {\"data\":\"Successfully Connected to Mail\"} 
+time: 2014-10-14 15:59:48 | type: email_scan | content: 1 | logs: {\"data\":\"No New Emails Found\",\"error\":true} 
+time: 2014-11-30 18:52:12 | type: network_error | content: 1 | logs: {\"data\":\"Failed to Connect email\",\"error\":1} 
+time: 2014-11-30 19:53:05 | type: network_error | content: 1 | logs: {\"data\":\"Failed to Connect email\",\"error\":1} 
