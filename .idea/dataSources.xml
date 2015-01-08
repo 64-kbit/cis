@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="2458186120">
+  <component name="DataSourceManagerImpl" format="xml" hash="2854735310">
     <data-source source="LOCAL" name="xnet-web" uuid="4bb03e90-0b7a-4703-b270-15f66e7fc6c8">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
@@ -17,4 +17,3 @@
     </data-source>
   </component>
 </project>
-

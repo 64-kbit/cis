@@ -1,13 +1,6 @@
 <?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed');?>
 
 <?php
-/**
- * Created by PhpStorm.
- * User: oau
- * Date: 12/18/2014
- * Time: 10:46 AM
- */
-
 class Coordinator extends CI_Controller{
     function __construct(){
         parent::__construct();
@@ -25,7 +18,7 @@ class Coordinator extends CI_Controller{
     function allowed_access(){
         $login =   $this->System_core->curruser['profile'];
         if($login){
-            if($login == 'finance'){
+            if($login == 'coordinator'){
                 return true;
             }else{
                 return false;
@@ -41,7 +34,7 @@ class Coordinator extends CI_Controller{
         $data['home_view'] = 'tpl/template';
         $data['pg_title'] ='System Home ' . " | ".  $data['sys_name'] ;;
         $data['jsfiles'] = 'login_js';
-        $data['currentBase'] = 'finance/dashboard';
+        $data['currentBase'] = 'coordinator/dashboard';
         $data['current_uri'] = 'admin';
         $this->load->view('tpl/base',$data);
     }
