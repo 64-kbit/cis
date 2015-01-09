@@ -1,6 +1,7 @@
 jQuery.noConflict();
 
 jQuery(document).ready(function(){
+
     jQuery('.taglist .close').click(function(){
         jQuery(this).parent().remove();
         return false;
