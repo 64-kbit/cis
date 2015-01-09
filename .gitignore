@@ -1,1 +1,6 @@
 application/controllers/_coordinator.php
+*.log
+*.log
+apache_logs/error.log
+apache_logs/access.log
+.idea/workspace.xml
